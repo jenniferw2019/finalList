@@ -7,6 +7,7 @@ Author: Jennifer Wang
 #include <iostream>
 #include <cstring>
 #include <iomanip>
+#include <limits>
 #include "node.h"
 #include "student.h"
 
